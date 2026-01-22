@@ -140,6 +140,7 @@ flowchart LR
 ## 3. Feature Mind Map
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#4f46e5', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#6366f1', 'lineColor': '#a5b4fc', 'secondaryColor': '#7c3aed', 'tertiaryColor': '#2563eb', 'nodeTextColor': '#ffffff'}}}%%
 mindmap
   root((ContentStudio AI))
     Video Production

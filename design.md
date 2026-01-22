@@ -2,6 +2,33 @@
 
 ---
 
+## Visual References & Inspiration
+
+> These reference images showcase similar architecture patterns and UI designs that inspire ContentStudio AI's design.
+
+### 🏗️ Architecture Inspiration
+
+| Reference | Description |
+|-----------|-------------|
+| ![Microservices Architecture](https://microservices.io/i/Microservice_Architecture.png) | **Microservices Pattern** - Our service-oriented architecture follows this decomposition pattern |
+| ![AWS EKS Architecture](https://d1.awsstatic.com/product-marketing/containers/product-page-diagram_Amazon-EKS.a18fb1tried37ecef0c84bc23e500e3f3abc8b39.png) | **AWS EKS Reference** - Kubernetes orchestration pattern we follow |
+
+### 🎬 Video Editor UI Reference
+
+| Reference | Description |
+|-----------|-------------|
+| ![Video Editor Timeline](https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800) | **Timeline-based Editing** - Clean timeline interface for video editing |
+| ![Creator Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800) | **Analytics Dashboard** - Data visualization for creator metrics |
+
+### 📊 Dashboard & Analytics UI Reference
+
+| Reference | Description |
+|-----------|-------------|
+| ![Modern Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800) | **Clean Dashboard Design** - Modern metric cards and charts |
+| ![Dark Mode Analytics](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800) | **Dark Theme Analytics** - Professional dark mode dashboard |
+
+---
+
 ## 1. High-Level System Architecture
 
 ```mermaid

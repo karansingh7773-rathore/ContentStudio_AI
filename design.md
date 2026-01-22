@@ -2,30 +2,7 @@
 
 ---
 
-## Visual References & Inspiration
-
-> These reference images showcase similar architecture patterns and UI designs that inspire ContentStudio AI's design.
-
-### 🏗️ Architecture Inspiration
-
-| Reference | Description |
-|-----------|-------------|
-| ![Microservices Architecture](https://microservices.io/i/Microservice_Architecture.png) | **Microservices Pattern** - Our service-oriented architecture follows this decomposition pattern |
-| ![AWS EKS Architecture](https://d1.awsstatic.com/product-marketing/containers/product-page-diagram_Amazon-EKS.a18fb1tried37ecef0c84bc23e500e3f3abc8b39.png) | **AWS EKS Reference** - Kubernetes orchestration pattern we follow |
-
-### 🎬 Video Editor UI Reference
-
-| Reference | Description |
-|-----------|-------------|
-| ![Video Editor Timeline](https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800) | **Timeline-based Editing** - Clean timeline interface for video editing |
-| ![Creator Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800) | **Analytics Dashboard** - Data visualization for creator metrics |
-
-### 📊 Dashboard & Analytics UI Reference
-
-| Reference | Description |
-|-----------|-------------|
-| ![Modern Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800) | **Clean Dashboard Design** - Modern metric cards and charts |
-| ![Dark Mode Analytics](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800) | **Dark Theme Analytics** - Professional dark mode dashboard |
+> **A comprehensive technical blueprint for an AI-powered content creation platform**
 
 ---
 
@@ -89,6 +66,9 @@ flowchart TB
     AI --> DATA
     CORE --> DATA
 ```
+
+> 📖 **Reference**: Our architecture follows the microservices decomposition pattern  
+> ![Microservices Pattern](https://microservices.io/i/Microservice_Architecture.png)
 
 ---
 
@@ -284,6 +264,9 @@ stateDiagram-v2
 
 ## 5. Technology Stack
 
+> 📖 **Reference**: Next.js full-stack architecture pattern  
+> ![Next.js Architecture](https://nextjs.org/_next/image?url=%2Fstatic%2Fblog%2Fnext-15-rc2%2Fturbopack.png&w=3840&q=75)
+
 ### 5.1 Frontend & User Interface
 
 | Component | Technology | Purpose |
@@ -357,6 +340,9 @@ erDiagram
 ---
 
 ## 3. AI/ML Core Services
+
+> 📖 **Reference**: AI Pipeline Architecture for Media Processing  
+> ![AI ML Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*ZX05x1xYgaVoa4Vn2kKS9g.png)
 
 ### 3.1 Video & Audio Production
 
@@ -455,6 +441,9 @@ flowchart TB
 | **EKS** | Kubernetes orchestration for AI microservices |
 | **Elemental MediaConvert** | Final heavy-duty transcoding (optional) |
 | **RDS** | Managed PostgreSQL |
+
+> 📖 **Reference**: AWS EKS Container Orchestration Pattern  
+> ![AWS EKS](https://d1.awsstatic.com/product-marketing/containers/product-page-diagram_Amazon-EKS.a18fb1tried37ecef0c84bc23e500e3f3abc8b39.png)
 
 ---
 

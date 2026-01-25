@@ -1,10 +1,6 @@
 # ContentStudio AI - System Design Document
 
----
-
-> **A comprehensive technical blueprint for an AI-powered content creation platform**
-
----
+**A comprehensive technical blueprint for an AI-powered content creation platform**
 
 ## 1. High-Level System Architecture
 
@@ -67,8 +63,7 @@ flowchart TB
     CORE --> DATA
 ```
 
-> 📖 **Reference**: Our architecture follows the microservices decomposition pattern  
-> ![Microservices Pattern](https://microservices.io/i/Microservice_Architecture.png)
+**Reference**: Our architecture follows the microservices decomposition pattern
 
 ---
 
@@ -264,8 +259,7 @@ stateDiagram-v2
 
 ## 5. Technology Stack
 
-> 📖 **Reference**: Next.js full-stack architecture pattern  
-> ![Next.js Architecture](https://nextjs.org/_next/image?url=%2Fstatic%2Fblog%2Fnext-15-rc2%2Fturbopack.png&w=3840&q=75)
+**Reference**: Next.js full-stack architecture pattern
 
 ### 5.1 Frontend & User Interface
 
@@ -341,8 +335,7 @@ erDiagram
 
 ## 3. AI/ML Core Services
 
-> 📖 **Reference**: AI Pipeline Architecture for Media Processing  
-> ![AI ML Pipeline](https://miro.medium.com/v2/resize:fit:1400/1*ZX05x1xYgaVoa4Vn2kKS9g.png)
+**Reference**: AI Pipeline Architecture for Media Processing
 
 ### 3.1 Video & Audio Production
 
@@ -442,8 +435,7 @@ flowchart TB
 | **Elemental MediaConvert** | Final heavy-duty transcoding (optional) |
 | **RDS** | Managed PostgreSQL |
 
-> 📖 **Reference**: AWS EKS Container Orchestration Pattern  
-> ![AWS EKS](https://d1.awsstatic.com/product-marketing/containers/product-page-diagram_Amazon-EKS.a18fb1tried37ecef0c84bc23e500e3f3abc8b39.png)
+**Reference**: AWS EKS Container Orchestration Pattern
 
 ---
 

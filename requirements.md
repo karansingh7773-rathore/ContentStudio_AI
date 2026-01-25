@@ -1,5 +1,8 @@
 # ContentStudio AI - Requirements Document
 
+# 🎨 [**VIEW THE FULL DESIGN.MD FILE**](https://github.com/karansingh7773-rathore/ContentStudio_AI/blob/main/design.md) 🚀
+> **Click the link above to explore the detailed Design.md file**
+
 ## 1. Executive Summary
 
 ContentStudio AI is an AI-driven platform designed to streamline content creation, management, personalization, and distribution for creators. The platform enhances creativity, usability, and workflows by automating repetitive tasks and providing intelligent insights.

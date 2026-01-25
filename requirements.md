@@ -1,6 +1,7 @@
 # ContentStudio AI - Requirements Document
 
-# 🎨 [**VIEW THE FULL DESIGN.MD FILE**](https://github.com/karansingh7773-rathore/ContentStudio_AI/blob/main/design.md) 🚀
+# 🎨 **VIEW THE FULL DESIGN.MD FILE**
+(https://github.com/karansingh7773-rathore/ContentStudio_AI/blob/main/design.md) 🚀
 > **Click the link above to explore the detailed Design.md file**
 
 ## 1. Executive Summary
